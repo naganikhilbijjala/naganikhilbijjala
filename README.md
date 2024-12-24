@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naga Nikhil Bijjala</h1>
-<h3 align="center">Software Engineer | Building scalable systems | Backend Engineering</h3>
+<h3 align="center">Software Engineer | Building scalable systems | Full Stack Engineer</h3>
 
 - 📫 How to reach me **naganikhil.bijjala@gmail.com**
 
